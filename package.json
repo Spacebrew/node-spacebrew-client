@@ -1,11 +1,14 @@
 {
-  "author": "Jeff Crouse <jefftimesten@gmail.com>",
-  "name": "spacebrew",
+  "contributors": [
+    "Jeff Crouse <jefftimesten@gmail.com>",
+    "Quin Kennedy <quinkennedy@gmail.com> (http://quinkennedy.com)"
+  ],
+  "name": "@spacebrew/client",
   "description": "Spacebrew implementaion for Node (https://github.com/Spacebrew/spacebrew.js)",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jefftimesten/node-spacebrew"
+    "url": "https://github.com/spacebrew/node-spacebrew-client"
   },
   "main": "./lib",
   "dependencies": {

@@ -23,4 +23,3 @@ setInterval(function(){
 
 // connect to spacbrew
 sb.connect();
-
